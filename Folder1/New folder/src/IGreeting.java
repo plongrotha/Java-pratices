@@ -1,0 +1,4 @@
+
+interface IGreeting {
+    void greet();
+}

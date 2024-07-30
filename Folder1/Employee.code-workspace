@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../Employee"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "../Html"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Html"
+  }
+}
